@@ -1,0 +1,2 @@
+pbr
+libvirt-python>=1.2.6
