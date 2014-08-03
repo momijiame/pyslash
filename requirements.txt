@@ -1,2 +1,6 @@
-pbr
 libvirt-python>=1.2.6
+xmltodict>=0.9.0
+singledispatch>=3.4.0.3
+prettytable>=0.7.2
+simplejson>=3.6.0
+
